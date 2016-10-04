@@ -1,3 +1,16 @@
+echo "# wastematch" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/mustafashakeel/wastematch.git
+git push -u origin master
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/mustafashakeel/wastematch.git
+git push -u origin master
+
+
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
 
 [Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
